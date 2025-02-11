@@ -9,6 +9,11 @@ The 💜 prediction line is the official predicted overdose trend from [CDC NVSS
 # About the heatmap
 The heatmap below the lines shows 💜 prediction line in shades of purple, the 12-month predicted overdose count. The aqua box is the 12 month window corresponding to the highest overdose month (aqua bar). By comparing the peak month (aqua) to the orange line, you can see get a sense the OD pattern contributing to the predicted peak. Sometimes, the orange peak may not align with the aqua peak month, which we [explain here](https://opioiddatalab.ghost.io/peak-od-phenotypes/).
 
+# Time series infographic by state
+The [time series infographic](https://cdr.lib.unc.edu/concern/scholarly_works/mw22vm70m?locale=en) below can be reproduced in [Python using Matplotlib](https://github.com/opioiddatalab/overdosedata/blob/main/Public_release.ipynb). The final layout was done in [Adobe Illustrator](https://github.com/opioiddatalab/overdosedata/blob/main/sparklinescombined.ai).
+
+![Timelines by state of overdose](allstates.png)
+
 # Beyond
 This app was built by Nabarun Dasgupta at the University of North Carolina at Chapel Hill in January 2025. This app is not scheduled for regular updates, but can be if y'all find it useful and send us a request (opioiddatalab@unc.edu).
 
