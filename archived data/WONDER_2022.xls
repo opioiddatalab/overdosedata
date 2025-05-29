@@ -1,0 +1,644 @@
+"Notes"	"Month"	"Month Code"	"Residence State"	"Residence State Code"	Deaths	Population	Crude Rate
+	"Jan., 2022"	"2022/01"	"Alabama"	"01"	93	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Alaska"	"02"	10	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Arizona"	"04"	201	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Arkansas"	"05"	54	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"California"	"06"	932	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Colorado"	"08"	170	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Connecticut"	"09"	110	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Delaware"	"10"	51	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"District of Columbia"	"11"	37	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Florida"	"12"	603	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Georgia"	"13"	223	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Hawaii"	"15"	23	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Idaho"	"16"	44	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Illinois"	"17"	367	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Indiana"	"18"	230	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Iowa"	"19"	42	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Kansas"	"20"	60	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Kentucky"	"21"	182	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Louisiana"	"22"	222	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Maine"	"23"	42	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Maryland"	"24"	241	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Massachusetts"	"25"	201	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Michigan"	"26"	269	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Minnesota"	"27"	124	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Mississippi"	"28"	70	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Missouri"	"29"	189	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Montana"	"30"	19	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Nebraska"	"31"	10	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Nevada"	"32"	79	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"New Hampshire"	"33"	47	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"New Jersey"	"34"	303	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"New Mexico"	"35"	84	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"New York"	"36"	517	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"North Carolina"	"37"	337	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Ohio"	"39"	427	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Oklahoma"	"40"	100	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Oregon"	"41"	99	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Pennsylvania"	"42"	431	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Rhode Island"	"44"	36	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"South Carolina"	"45"	203	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Tennessee"	"47"	278	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Texas"	"48"	405	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Utah"	"49"	67	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Vermont"	"50"	23	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Virginia"	"51"	194	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Washington"	"53"	208	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"West Virginia"	"54"	116	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Wisconsin"	"55"	191	Not Applicable	Not Applicable
+	"Jan., 2022"	"2022/01"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Alabama"	"01"	133	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Alaska"	"02"	20	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Arizona"	"04"	173	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Arkansas"	"05"	53	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"California"	"06"	891	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Colorado"	"08"	149	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Connecticut"	"09"	110	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Delaware"	"10"	37	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"District of Columbia"	"11"	36	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Florida"	"12"	599	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Georgia"	"13"	211	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Hawaii"	"15"	26	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Idaho"	"16"	25	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Illinois"	"17"	307	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Indiana"	"18"	263	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Iowa"	"19"	44	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Kansas"	"20"	53	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Kentucky"	"21"	176	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Louisiana"	"22"	192	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Maine"	"23"	50	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Maryland"	"24"	214	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Massachusetts"	"25"	216	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Michigan"	"26"	234	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Minnesota"	"27"	92	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Mississippi"	"28"	54	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Missouri"	"29"	162	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Nebraska"	"31"	23	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Nevada"	"32"	63	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"New Hampshire"	"33"	38	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"New Jersey"	"34"	236	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"New Mexico"	"35"	101	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"New York"	"36"	443	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"North Carolina"	"37"	324	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Ohio"	"39"	388	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Oklahoma"	"40"	99	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Oregon"	"41"	102	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Pennsylvania"	"42"	382	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Rhode Island"	"44"	32	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"South Carolina"	"45"	192	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Tennessee"	"47"	313	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Texas"	"48"	460	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Utah"	"49"	47	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Vermont"	"50"	14	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Virginia"	"51"	213	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Washington"	"53"	191	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"West Virginia"	"54"	120	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Wisconsin"	"55"	149	Not Applicable	Not Applicable
+	"Feb., 2022"	"2022/02"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Alabama"	"01"	124	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Alaska"	"02"	27	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Arizona"	"04"	215	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Arkansas"	"05"	70	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"California"	"06"	873	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Colorado"	"08"	134	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Connecticut"	"09"	127	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Delaware"	"10"	48	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"District of Columbia"	"11"	30	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Florida"	"12"	714	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Georgia"	"13"	219	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Hawaii"	"15"	20	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Idaho"	"16"	33	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Illinois"	"17"	326	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Indiana"	"18"	242	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Iowa"	"19"	47	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Kansas"	"20"	72	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Kentucky"	"21"	187	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Louisiana"	"22"	216	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Maine"	"23"	69	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Maryland"	"24"	232	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Massachusetts"	"25"	222	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Michigan"	"26"	256	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Minnesota"	"27"	113	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Mississippi"	"28"	73	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Missouri"	"29"	176	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Montana"	"30"	25	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Nebraska"	"31"	19	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Nevada"	"32"	66	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"New Hampshire"	"33"	45	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"New Jersey"	"34"	249	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"New Mexico"	"35"	90	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"New York"	"36"	523	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"North Carolina"	"37"	384	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"North Dakota"	"38"	16	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Ohio"	"39"	448	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Oklahoma"	"40"	99	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Oregon"	"41"	103	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Pennsylvania"	"42"	482	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Rhode Island"	"44"	44	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"South Carolina"	"45"	178	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"South Dakota"	"46"	10	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Tennessee"	"47"	360	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Texas"	"48"	453	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Utah"	"49"	59	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Vermont"	"50"	20	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Virginia"	"51"	217	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Washington"	"53"	196	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"West Virginia"	"54"	100	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Wisconsin"	"55"	151	Not Applicable	Not Applicable
+	"Mar., 2022"	"2022/03"	"Wyoming"	"56"	12	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Alabama"	"01"	120	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Alaska"	"02"	16	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Arizona"	"04"	192	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Arkansas"	"05"	46	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"California"	"06"	886	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Colorado"	"08"	136	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Connecticut"	"09"	123	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Delaware"	"10"	44	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"District of Columbia"	"11"	34	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Florida"	"12"	628	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Georgia"	"13"	248	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Hawaii"	"15"	25	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Idaho"	"16"	27	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Illinois"	"17"	300	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Indiana"	"18"	194	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Iowa"	"19"	40	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Kansas"	"20"	61	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Kentucky"	"21"	180	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Louisiana"	"22"	206	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Maine"	"23"	55	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Maryland"	"24"	199	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Massachusetts"	"25"	219	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Michigan"	"26"	243	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Minnesota"	"27"	93	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Mississippi"	"28"	58	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Missouri"	"29"	187	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Montana"	"30"	16	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Nebraska"	"31"	14	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Nevada"	"32"	80	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"New Hampshire"	"33"	41	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"New Jersey"	"34"	247	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"New Mexico"	"35"	80	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"New York"	"36"	495	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"North Carolina"	"37"	380	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Ohio"	"39"	395	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Oklahoma"	"40"	80	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Oregon"	"41"	102	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Pennsylvania"	"42"	411	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Rhode Island"	"44"	31	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"South Carolina"	"45"	175	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Tennessee"	"47"	311	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Texas"	"48"	425	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Utah"	"49"	39	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Vermont"	"50"	22	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Virginia"	"51"	177	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Washington"	"53"	184	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"West Virginia"	"54"	104	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Wisconsin"	"55"	162	Not Applicable	Not Applicable
+	"Apr., 2022"	"2022/04"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Alabama"	"01"	142	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Alaska"	"02"	20	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Arizona"	"04"	202	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Arkansas"	"05"	60	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"California"	"06"	889	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Colorado"	"08"	168	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Connecticut"	"09"	127	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Delaware"	"10"	62	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"District of Columbia"	"11"	37	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Florida"	"12"	651	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Georgia"	"13"	215	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Hawaii"	"15"	19	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Idaho"	"16"	22	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Illinois"	"17"	320	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Indiana"	"18"	198	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Iowa"	"19"	40	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Kansas"	"20"	56	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Kentucky"	"21"	190	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Louisiana"	"22"	209	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Maine"	"23"	45	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Maryland"	"24"	189	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Massachusetts"	"25"	209	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Michigan"	"26"	234	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Minnesota"	"27"	119	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Mississippi"	"28"	83	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Missouri"	"29"	185	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Montana"	"30"	24	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Nebraska"	"31"	22	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Nevada"	"32"	76	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"New Hampshire"	"33"	34	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"New Jersey"	"34"	249	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"New Mexico"	"35"	84	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"New York"	"36"	530	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"North Carolina"	"37"	361	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"North Dakota"	"38"	12	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Ohio"	"39"	399	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Oklahoma"	"40"	92	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Oregon"	"41"	132	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Pennsylvania"	"42"	408	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Rhode Island"	"44"	49	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"South Carolina"	"45"	174	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Tennessee"	"47"	287	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Texas"	"48"	451	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Utah"	"49"	49	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Vermont"	"50"	22	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Virginia"	"51"	225	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Washington"	"53"	213	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"West Virginia"	"54"	112	Not Applicable	Not Applicable
+	"May, 2022"	"2022/05"	"Wisconsin"	"55"	161	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Alabama"	"01"	116	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Alaska"	"02"	29	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Arizona"	"04"	244	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Arkansas"	"05"	43	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"California"	"06"	909	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Colorado"	"08"	122	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Connecticut"	"09"	112	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Delaware"	"10"	52	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"District of Columbia"	"11"	40	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Florida"	"12"	638	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Georgia"	"13"	242	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Hawaii"	"15"	19	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Idaho"	"16"	36	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Illinois"	"17"	283	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Indiana"	"18"	203	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Iowa"	"19"	37	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Kansas"	"20"	57	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Kentucky"	"21"	202	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Louisiana"	"22"	210	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Maine"	"23"	62	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Maryland"	"24"	206	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Massachusetts"	"25"	233	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Michigan"	"26"	242	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Minnesota"	"27"	119	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Mississippi"	"28"	59	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Missouri"	"29"	185	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Montana"	"30"	11	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Nebraska"	"31"	30	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Nevada"	"32"	85	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"New Hampshire"	"33"	45	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"New Jersey"	"34"	238	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"New Mexico"	"35"	85	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"New York"	"36"	545	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"North Carolina"	"37"	381	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"North Dakota"	"38"	17	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Ohio"	"39"	411	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Oklahoma"	"40"	100	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Oregon"	"41"	100	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Pennsylvania"	"42"	424	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Rhode Island"	"44"	35	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"South Carolina"	"45"	190	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Tennessee"	"47"	284	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Texas"	"48"	480	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Utah"	"49"	42	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Vermont"	"50"	21	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Virginia"	"51"	205	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Washington"	"53"	204	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"West Virginia"	"54"	103	Not Applicable	Not Applicable
+	"Jun., 2022"	"2022/06"	"Wisconsin"	"55"	150	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Alabama"	"01"	152	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Alaska"	"02"	21	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Arizona"	"04"	360	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Arkansas"	"05"	57	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"California"	"06"	975	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Colorado"	"08"	149	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Connecticut"	"09"	127	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Delaware"	"10"	40	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"District of Columbia"	"11"	39	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Florida"	"12"	684	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Georgia"	"13"	223	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Hawaii"	"15"	30	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Idaho"	"16"	33	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Illinois"	"17"	288	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Indiana"	"18"	261	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Iowa"	"19"	31	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Kansas"	"20"	73	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Kentucky"	"21"	205	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Louisiana"	"22"	194	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Maine"	"23"	68	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Maryland"	"24"	204	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Massachusetts"	"25"	236	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Michigan"	"26"	256	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Minnesota"	"27"	110	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Mississippi"	"28"	56	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Missouri"	"29"	187	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Nebraska"	"31"	19	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Nevada"	"32"	111	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"New Hampshire"	"33"	43	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"New Jersey"	"34"	231	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"New Mexico"	"35"	84	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"New York"	"36"	578	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"North Carolina"	"37"	320	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"North Dakota"	"38"	14	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Ohio"	"39"	459	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Oklahoma"	"40"	103	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Oregon"	"41"	105	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Pennsylvania"	"42"	455	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Rhode Island"	"44"	20	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"South Carolina"	"45"	208	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Tennessee"	"47"	342	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Texas"	"48"	526	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Utah"	"49"	49	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Vermont"	"50"	35	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Virginia"	"51"	207	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Washington"	"53"	234	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"West Virginia"	"54"	130	Not Applicable	Not Applicable
+	"Jul., 2022"	"2022/07"	"Wisconsin"	"55"	152	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Alabama"	"01"	130	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Alaska"	"02"	20	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Arizona"	"04"	232	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Arkansas"	"05"	56	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"California"	"06"	976	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Colorado"	"08"	151	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Connecticut"	"09"	117	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Delaware"	"10"	42	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"District of Columbia"	"11"	46	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Florida"	"12"	645	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Georgia"	"13"	226	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Idaho"	"16"	35	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Illinois"	"17"	320	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Indiana"	"18"	229	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Iowa"	"19"	43	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Kansas"	"20"	65	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Kentucky"	"21"	190	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Louisiana"	"22"	182	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Maine"	"23"	69	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Maryland"	"24"	187	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Massachusetts"	"25"	215	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Michigan"	"26"	240	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Minnesota"	"27"	121	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Mississippi"	"28"	59	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Missouri"	"29"	187	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Montana"	"30"	18	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Nebraska"	"31"	18	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Nevada"	"32"	74	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"New Hampshire"	"33"	32	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"New Jersey"	"34"	262	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"New Mexico"	"35"	73	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"New York"	"36"	541	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"North Carolina"	"37"	379	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"North Dakota"	"38"	12	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Ohio"	"39"	444	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Oklahoma"	"40"	100	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Oregon"	"41"	112	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Pennsylvania"	"42"	454	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Rhode Island"	"44"	28	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"South Carolina"	"45"	196	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Tennessee"	"47"	289	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Texas"	"48"	487	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Utah"	"49"	57	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Vermont"	"50"	24	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Virginia"	"51"	226	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Washington"	"53"	258	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"West Virginia"	"54"	113	Not Applicable	Not Applicable
+	"Aug., 2022"	"2022/08"	"Wisconsin"	"55"	147	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Alabama"	"01"	119	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Alaska"	"02"	16	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Arizona"	"04"	224	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Arkansas"	"05"	34	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"California"	"06"	998	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Colorado"	"08"	146	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Connecticut"	"09"	131	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Delaware"	"10"	45	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"District of Columbia"	"11"	35	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Florida"	"12"	605	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Georgia"	"13"	226	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Hawaii"	"15"	32	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Idaho"	"16"	34	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Illinois"	"17"	313	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Indiana"	"18"	211	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Iowa"	"19"	29	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Kansas"	"20"	60	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Kentucky"	"21"	162	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Louisiana"	"22"	190	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Maine"	"23"	54	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Maryland"	"24"	194	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Massachusetts"	"25"	210	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Michigan"	"26"	229	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Minnesota"	"27"	107	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Mississippi"	"28"	67	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Missouri"	"29"	188	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Montana"	"30"	14	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Nebraska"	"31"	13	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Nevada"	"32"	120	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"New Hampshire"	"33"	40	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"New Jersey"	"34"	247	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"New Mexico"	"35"	79	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"New York"	"36"	513	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"North Carolina"	"37"	368	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"North Dakota"	"38"	11	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Ohio"	"39"	406	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Oklahoma"	"40"	104	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Oregon"	"41"	97	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Pennsylvania"	"42"	390	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Rhode Island"	"44"	36	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"South Carolina"	"45"	175	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"South Dakota"	"46"	17	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Tennessee"	"47"	335	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Texas"	"48"	485	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Utah"	"49"	58	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Vermont"	"50"	19	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Virginia"	"51"	210	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Washington"	"53"	202	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"West Virginia"	"54"	92	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Wisconsin"	"55"	131	Not Applicable	Not Applicable
+	"Sep., 2022"	"2022/09"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Alabama"	"01"	141	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Alaska"	"02"	22	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Arizona"	"04"	209	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Arkansas"	"05"	54	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"California"	"06"	872	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Colorado"	"08"	153	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Connecticut"	"09"	146	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Delaware"	"10"	41	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"District of Columbia"	"11"	45	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Florida"	"12"	632	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Georgia"	"13"	213	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Hawaii"	"15"	19	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Idaho"	"16"	25	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Illinois"	"17"	313	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Indiana"	"18"	243	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Iowa"	"19"	45	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Kansas"	"20"	47	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Kentucky"	"21"	205	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Louisiana"	"22"	177	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Maine"	"23"	59	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Maryland"	"24"	209	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Massachusetts"	"25"	253	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Michigan"	"26"	268	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Minnesota"	"27"	131	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Mississippi"	"28"	67	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Missouri"	"29"	186	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Montana"	"30"	15	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Nebraska"	"31"	18	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Nevada"	"32"	76	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"New Hampshire"	"33"	37	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"New Jersey"	"34"	259	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"New Mexico"	"35"	88	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"New York"	"36"	556	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"North Carolina"	"37"	359	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Ohio"	"39"	472	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Oklahoma"	"40"	109	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Oregon"	"41"	111	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Pennsylvania"	"42"	440	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Rhode Island"	"44"	41	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"South Carolina"	"45"	171	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Tennessee"	"47"	329	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Texas"	"48"	435	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Utah"	"49"	42	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Vermont"	"50"	25	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Virginia"	"51"	209	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Washington"	"53"	237	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"West Virginia"	"54"	123	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Wisconsin"	"55"	131	Not Applicable	Not Applicable
+	"Oct., 2022"	"2022/10"	"Wyoming"	"56"	12	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Alabama"	"01"	106	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Alaska"	"02"	21	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Arizona"	"04"	197	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Arkansas"	"05"	46	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"California"	"06"	839	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Colorado"	"08"	161	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Connecticut"	"09"	128	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Delaware"	"10"	38	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"District of Columbia"	"11"	35	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Florida"	"12"	565	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Georgia"	"13"	232	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Idaho"	"16"	29	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Illinois"	"17"	361	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Indiana"	"18"	198	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Iowa"	"19"	39	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Kansas"	"20"	74	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Kentucky"	"21"	210	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Louisiana"	"22"	175	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Maine"	"23"	63	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Maryland"	"24"	250	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Massachusetts"	"25"	209	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Michigan"	"26"	275	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Minnesota"	"27"	123	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Mississippi"	"28"	42	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Missouri"	"29"	165	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Nebraska"	"31"	18	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Nevada"	"32"	90	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"New Hampshire"	"33"	47	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"New Jersey"	"34"	225	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"New Mexico"	"35"	85	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"New York"	"36"	552	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"North Carolina"	"37"	353	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"North Dakota"	"38"	11	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Ohio"	"39"	437	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Oklahoma"	"40"	97	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Oregon"	"41"	129	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Pennsylvania"	"42"	415	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Rhode Island"	"44"	35	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"South Carolina"	"45"	197	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Tennessee"	"47"	332	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Texas"	"48"	402	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Utah"	"49"	59	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Vermont"	"50"	19	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Virginia"	"51"	194	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Washington"	"53"	264	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"West Virginia"	"54"	102	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Wisconsin"	"55"	123	Not Applicable	Not Applicable
+	"Nov., 2022"	"2022/11"	"Wyoming"	"56"	12	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Alabama"	"01"	116	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Alaska"	"02"	32	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Arizona"	"04"	215	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Arkansas"	"05"	44	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"California"	"06"	912	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Colorado"	"08"	172	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Connecticut"	"09"	124	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Delaware"	"10"	49	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"District of Columbia"	"11"	37	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Florida"	"12"	587	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Georgia"	"13"	209	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Hawaii"	"15"	23	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Idaho"	"16"	42	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Illinois"	"17"	351	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Indiana"	"18"	210	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Iowa"	"19"	32	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Kansas"	"20"	76	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Kentucky"	"21"	182	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Louisiana"	"22"	203	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Maine"	"23"	71	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Maryland"	"24"	248	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Massachusetts"	"25"	219	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Michigan"	"26"	251	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Minnesota"	"27"	132	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Mississippi"	"28"	70	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Missouri"	"29"	195	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Montana"	"30"	15	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Nebraska"	"31"	21	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Nevada"	"32"	83	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"New Hampshire"	"33"	37	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"New Jersey"	"34"	239	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"New Mexico"	"35"	91	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"New York"	"36"	565	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"North Carolina"	"37"	364	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"North Dakota"	"38"	19	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Ohio"	"39"	458	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Oklahoma"	"40"	113	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Oregon"	"41"	171	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Pennsylvania"	"42"	477	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Rhode Island"	"44"	37	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"South Carolina"	"45"	220	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Tennessee"	"47"	365	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Texas"	"48"	480	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Utah"	"49"	59	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Vermont"	"50"	32	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Virginia"	"51"	219	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Washington"	"53"	334	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"West Virginia"	"54"	120	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Wisconsin"	"55"	144	Not Applicable	Not Applicable
+	"Dec., 2022"	"2022/12"	"Wyoming"	"56"	13	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide"
+"(X60-X64); Drug poisonings (overdose) Homicide (X85); Drug poisonings (overdose) Undetermined (Y10-Y14)"
+"Year/Month: 2022"
+"Group By: Month; Residence State"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Apr 21, 2025 4:47:35 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2023,"
+"and from provisional data for years 2024 and later, as compiled from data provided by the 57 vital statistics jurisdictions"
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Apr 21, 2025"
+"4:47:35 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"5. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"6. Deaths occurring through April 05, 2025 as of April 13, 2025."

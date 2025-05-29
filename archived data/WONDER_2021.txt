@@ -1,0 +1,640 @@
+Notes	Month	Month Code	Residence State	Residence State Code	Deaths	Population	Crude Rate
+	"Jan., 2021"	2021/01	Alabama	1	105	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Alaska	2	13	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Arizona	4	212	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Arkansas	5	48	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	California	6	981	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Colorado	8	146	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Connecticut	9	120	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Delaware	10	43	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	District of Columbia	11	41	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Florida	12	630	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Georgia	13	174	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Hawaii	15	18	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Idaho	16	23	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Illinois	17	250	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Indiana	18	232	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Iowa	19	32	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Kansas	20	45	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Kentucky	21	204	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Louisiana	22	211	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Maine	23	54	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Maryland	24	257	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Massachusetts	25	205	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Michigan	26	248	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Minnesota	27	110	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Mississippi	28	69	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Missouri	29	173	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Montana	30	22	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Nebraska	31	12	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Nevada	32	81	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	New Hampshire	33	28	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	New Jersey	34	267	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	New Mexico	35	73	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	New York	36	530	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	North Carolina	37	328	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	North Dakota	38	15	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Ohio	39	471	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Oklahoma	40	72	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Oregon	41	95	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Pennsylvania	42	448	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Rhode Island	44	36	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	South Carolina	45	161	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Tennessee	47	316	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Texas	48	402	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Utah	49	59	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Vermont	50	15	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Virginia	51	230	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Washington	53	180	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	West Virginia	54	138	Not Applicable	Not Applicable
+	"Jan., 2021"	2021/01	Wisconsin	55	138	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Alabama	1	94	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Alaska	2	16	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Arizona	4	183	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Arkansas	5	51	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	California	6	794	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Colorado	8	122	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Connecticut	9	119	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Delaware	10	43	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	District of Columbia	11	32	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Florida	12	550	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Georgia	13	212	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Hawaii	15	27	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Idaho	16	18	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Illinois	17	236	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Indiana	18	181	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Iowa	19	35	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Kansas	20	47	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Kentucky	21	172	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Louisiana	22	179	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Maine	23	41	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Maryland	24	208	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Massachusetts	25	194	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Michigan	26	211	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Minnesota	27	99	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Mississippi	28	73	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Missouri	29	161	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Montana	30	10	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Nebraska	31	18	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Nevada	32	81	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	New Hampshire	33	27	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	New Jersey	34	245	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	New Mexico	35	70	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	New York	36	427	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	North Carolina	37	295	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Ohio	39	400	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Oklahoma	40	50	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Oregon	41	65	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Pennsylvania	42	447	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Rhode Island	44	32	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	South Carolina	45	131	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	South Dakota	46	12	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Tennessee	47	276	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Texas	48	378	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Utah	49	45	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Vermont	50	12	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Virginia	51	191	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Washington	53	148	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	West Virginia	54	111	Not Applicable	Not Applicable
+	"Feb., 2021"	2021/02	Wisconsin	55	122	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Alabama	1	139	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Alaska	2	26	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Arizona	4	212	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Arkansas	5	61	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	California	6	904	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Colorado	8	169	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Connecticut	9	126	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Delaware	10	48	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	District of Columbia	11	34	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Florida	12	650	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Georgia	13	218	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Hawaii	15	20	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Idaho	16	22	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Illinois	17	324	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Indiana	18	248	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Iowa	19	39	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Kansas	20	73	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Kentucky	21	202	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Louisiana	22	213	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Maine	23	59	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Maryland	24	242	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Massachusetts	25	237	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Michigan	26	289	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Minnesota	27	131	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Mississippi	28	70	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Missouri	29	179	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Montana	30	10	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Nebraska	31	20	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Nevada	32	76	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	New Hampshire	33	38	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	New Jersey	34	278	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	New Mexico	35	90	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	New York	36	500	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	North Carolina	37	367	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Ohio	39	497	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Oklahoma	40	84	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Oregon	41	92	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Pennsylvania	42	461	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Rhode Island	44	32	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	South Carolina	45	172	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Tennessee	47	348	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Texas	48	478	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Utah	49	47	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Vermont	50	27	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Virginia	51	254	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Washington	53	197	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	West Virginia	54	146	Not Applicable	Not Applicable
+	"Mar., 2021"	2021/03	Wisconsin	55	131	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Alabama	1	129	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Alaska	2	19	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Arizona	4	208	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Arkansas	5	55	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	California	6	941	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Colorado	8	158	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Connecticut	9	124	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Delaware	10	47	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	District of Columbia	11	27	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Florida	12	738	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Georgia	13	230	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Hawaii	15	11	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Idaho	16	33	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Illinois	17	355	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Indiana	18	253	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Iowa	19	43	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Kansas	20	59	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Kentucky	21	228	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Louisiana	22	215	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Maine	23	47	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Maryland	24	243	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Massachusetts	25	223	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Michigan	26	295	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Minnesota	27	113	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Mississippi	28	85	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Missouri	29	213	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Montana	30	19	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Nebraska	31	21	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Nevada	32	74	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	New Hampshire	33	33	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	New Jersey	34	249	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	New Mexico	35	94	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	New York	36	471	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	North Carolina	37	344	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	North Dakota	38	10	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Ohio	39	497	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Oklahoma	40	70	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Oregon	41	109	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Pennsylvania	42	423	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Rhode Island	44	41	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	South Carolina	45	218	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	South Dakota	46	10	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Tennessee	47	349	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Texas	48	430	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Utah	49	78	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Vermont	50	17	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Virginia	51	243	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Washington	53	196	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	West Virginia	54	161	Not Applicable	Not Applicable
+	"Apr., 2021"	2021/04	Wisconsin	55	172	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Alabama	1	129	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Alaska	2	29	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Arizona	4	260	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Arkansas	5	62	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	California	6	928	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Colorado	8	177	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Connecticut	9	136	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Delaware	10	48	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	District of Columbia	11	44	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Florida	12	657	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Georgia	13	234	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Hawaii	15	25	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Idaho	16	34	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Illinois	17	311	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Indiana	18	241	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Iowa	19	44	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Kansas	20	51	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Kentucky	21	209	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Louisiana	22	202	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Maine	23	45	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Maryland	24	246	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Massachusetts	25	197	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Michigan	26	280	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Minnesota	27	105	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Mississippi	28	66	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Missouri	29	200	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Montana	30	26	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Nebraska	31	16	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Nevada	32	71	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	New Hampshire	33	38	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	New Jersey	34	235	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	New Mexico	35	106	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	New York	36	484	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	North Carolina	37	353	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	North Dakota	38	14	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Ohio	39	466	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Oklahoma	40	70	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Oregon	41	116	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Pennsylvania	42	550	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Rhode Island	44	50	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	South Carolina	45	178	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Tennessee	47	317	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Texas	48	441	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Utah	49	54	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Vermont	50	20	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Virginia	51	217	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Washington	53	189	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	West Virginia	54	119	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Wisconsin	55	172	Not Applicable	Not Applicable
+	"May, 2021"	2021/05	Wyoming	56	13	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Alabama	1	122	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Alaska	2	20	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Arizona	4	264	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Arkansas	5	51	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	California	6	937	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Colorado	8	168	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Connecticut	9	129	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Delaware	10	41	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	District of Columbia	11	37	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Florida	12	738	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Georgia	13	203	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Hawaii	15	21	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Idaho	16	40	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Illinois	17	323	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Indiana	18	217	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Iowa	19	36	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Kansas	20	51	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Kentucky	21	202	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Louisiana	22	197	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Maine	23	53	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Maryland	24	255	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Massachusetts	25	210	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Michigan	26	257	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Minnesota	27	85	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Mississippi	28	62	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Missouri	29	184	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Montana	30	14	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Nebraska	31	17	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Nevada	32	97	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	New Hampshire	33	39	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	New Jersey	34	280	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	New Mexico	35	95	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	New York	36	468	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	North Carolina	37	318	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Ohio	39	413	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Oklahoma	40	82	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Oregon	41	107	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Pennsylvania	42	464	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Rhode Island	44	25	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	South Carolina	45	183	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Tennessee	47	325	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Texas	48	425	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Utah	49	52	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Vermont	50	19	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Virginia	51	205	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Washington	53	185	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	West Virginia	54	116	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Wisconsin	55	162	Not Applicable	Not Applicable
+	"Jun., 2021"	2021/06	Wyoming	56	11	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Alabama	1	112	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Alaska	2	22	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Arizona	4	281	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Arkansas	5	46	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	California	6	972	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Colorado	8	173	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Connecticut	9	149	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Delaware	10	36	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	District of Columbia	11	43	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Florida	12	675	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Georgia	13	177	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Hawaii	15	40	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Idaho	16	33	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Illinois	17	355	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Indiana	18	237	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Iowa	19	50	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Kansas	20	60	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Kentucky	21	199	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Louisiana	22	240	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Maine	23	38	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Maryland	24	254	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Massachusetts	25	212	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Michigan	26	253	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Minnesota	27	118	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Mississippi	28	74	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Missouri	29	173	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Montana	30	20	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Nebraska	31	17	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Nevada	32	108	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	New Hampshire	33	40	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	New Jersey	34	266	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	New Mexico	35	104	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	New York	36	495	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	North Carolina	37	352	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Ohio	39	487	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Oklahoma	40	85	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Oregon	41	107	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Pennsylvania	42	492	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Rhode Island	44	34	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	South Carolina	45	189	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Tennessee	47	302	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Texas	48	434	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Utah	49	64	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Vermont	50	30	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Virginia	51	204	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Washington	53	209	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	West Virginia	54	114	Not Applicable	Not Applicable
+	"Jul., 2021"	2021/07	Wisconsin	55	158	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Alabama	1	119	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Alaska	2	26	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Arizona	4	269	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Arkansas	5	58	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	California	6	981	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Colorado	8	181	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Connecticut	9	145	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Delaware	10	37	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	District of Columbia	11	39	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Florida	12	681	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Georgia	13	203	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Hawaii	15	18	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Idaho	16	28	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Illinois	17	328	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Indiana	18	242	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Iowa	19	44	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Kansas	20	77	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Kentucky	21	201	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Louisiana	22	212	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Maine	23	46	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Maryland	24	194	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Massachusetts	25	234	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Michigan	26	271	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Minnesota	27	138	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Mississippi	28	58	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Missouri	29	190	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Montana	30	19	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Nebraska	31	35	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Nevada	32	77	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	New Hampshire	33	39	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	New Jersey	34	259	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	New Mexico	35	106	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	New York	36	539	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	North Carolina	37	328	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	North Dakota	38	10	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Ohio	39	455	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Oklahoma	40	94	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Oregon	41	96	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Pennsylvania	42	462	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Rhode Island	44	46	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	South Carolina	45	177	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	South Dakota	46	10	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Tennessee	47	324	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Texas	48	444	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Utah	49	55	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Vermont	50	21	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Virginia	51	217	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Washington	53	213	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	West Virginia	54	145	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Wisconsin	55	146	Not Applicable	Not Applicable
+	"Aug., 2021"	2021/08	Wyoming	56	12	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Alabama	1	125	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Alaska	2	16	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Arizona	4	220	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Arkansas	5	48	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	California	6	929	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Colorado	8	169	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Connecticut	9	135	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Delaware	10	29	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	District of Columbia	11	47	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Florida	12	644	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Georgia	13	209	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Hawaii	15	18	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Idaho	16	39	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Illinois	17	299	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Indiana	18	267	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Iowa	19	32	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Kansas	20	61	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Kentucky	21	218	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Louisiana	22	229	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Maine	23	58	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Maryland	24	210	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Massachusetts	25	218	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Michigan	26	249	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Minnesota	27	108	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Mississippi	28	62	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Missouri	29	168	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Montana	30	17	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Nebraska	31	17	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Nevada	32	65	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	New Hampshire	33	47	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	New Jersey	34	253	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	New Mexico	35	83	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	New York	36	493	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	North Carolina	37	316	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	North Dakota	38	11	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Ohio	39	434	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Oklahoma	40	84	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Oregon	41	110	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Pennsylvania	42	450	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Rhode Island	44	39	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	South Carolina	45	200	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Tennessee	47	322	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Texas	48	433	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Utah	49	51	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Vermont	50	27	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Virginia	51	225	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Washington	53	185	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	West Virginia	54	115	Not Applicable	Not Applicable
+	"Sep., 2021"	2021/09	Wisconsin	55	141	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Alabama	1	115	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Alaska	2	27	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Arizona	4	215	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Arkansas	5	46	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	California	6	879	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Colorado	8	147	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Connecticut	9	111	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Delaware	10	48	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	District of Columbia	11	27	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Florida	12	651	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Georgia	13	221	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Hawaii	15	33	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Idaho	16	25	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Illinois	17	321	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Indiana	18	217	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Iowa	19	31	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Kansas	20	50	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Kentucky	21	193	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Louisiana	22	184	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Maine	23	63	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Maryland	24	227	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Massachusetts	25	223	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Michigan	26	244	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Minnesota	27	112	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Mississippi	28	63	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Missouri	29	176	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Nebraska	31	18	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Nevada	32	66	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	New Hampshire	33	35	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	New Jersey	34	277	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	New Mexico	35	79	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	New York	36	501	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	North Carolina	37	322	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	North Dakota	38	13	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Ohio	39	441	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Oklahoma	40	91	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Oregon	41	102	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Pennsylvania	42	440	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Rhode Island	44	46	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	South Carolina	45	186	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	South Dakota	46	10	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Tennessee	47	337	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Texas	48	357	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Utah	49	56	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Vermont	50	22	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Virginia	51	217	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Washington	53	190	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	West Virginia	54	113	Not Applicable	Not Applicable
+	"Oct., 2021"	2021/10	Wisconsin	55	145	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Alabama	1	95	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Alaska	2	29	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Arizona	4	186	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Arkansas	5	54	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	California	6	836	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Colorado	8	137	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Connecticut	9	134	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Delaware	10	44	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	District of Columbia	11	36	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Florida	12	601	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Georgia	13	181	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Hawaii	15	20	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Idaho	16	33	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Illinois	17	323	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Indiana	18	254	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Iowa	19	31	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Kansas	20	53	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Kentucky	21	171	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Louisiana	22	186	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Maine	23	58	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Maryland	24	183	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Massachusetts	25	203	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Michigan	26	245	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Minnesota	27	117	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Mississippi	28	46	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Missouri	29	169	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Montana	30	15	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Nebraska	31	11	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Nevada	32	72	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	New Hampshire	33	28	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	New Jersey	34	216	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	New Mexico	35	77	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	New York	36	442	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	North Carolina	37	308	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Ohio	39	419	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Oklahoma	40	88	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Oregon	41	82	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Pennsylvania	42	395	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Rhode Island	44	44	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	South Carolina	45	171	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	South Dakota	46	12	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Tennessee	47	305	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Texas	48	388	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Utah	49	53	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Vermont	50	24	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Virginia	51	205	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Washington	53	187	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	West Virginia	54	121	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Wisconsin	55	144	Not Applicable	Not Applicable
+	"Nov., 2021"	2021/11	Wyoming	56	15	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Alabama	1	124	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Alaska	2	17	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Arizona	4	220	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Arkansas	5	57	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	California	6	819	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Colorado	8	140	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Connecticut	9	124	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Delaware	10	49	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	District of Columbia	11	43	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Florida	12	612	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Georgia	13	238	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Hawaii	15	18	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Idaho	16	26	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Illinois	17	337	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Indiana	18	222	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Iowa	19	58	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Kansas	20	53	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Kentucky	21	182	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Louisiana	22	195	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Maine	23	49	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Maryland	24	218	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Massachusetts	25	229	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Michigan	26	247	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Minnesota	27	120	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Mississippi	28	59	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Missouri	29	169	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Montana	30	18	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Nebraska	31	12	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Nevada	32	81	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	New Hampshire	33	49	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	New Jersey	34	231	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	New Mexico	35	75	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	New York	36	492	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	North Carolina	37	350	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	North Dakota	38	13	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Ohio	39	417	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Oklahoma	40	90	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Oregon	41	90	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Pennsylvania	42	417	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Rhode Island	44	30	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	South Carolina	45	172	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Tennessee	47	292	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Texas	48	374	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Utah	49	48	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Vermont	50	18	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Virginia	51	218	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Washington	53	185	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	West Virginia	54	102	Not Applicable	Not Applicable
+	"Dec., 2021"	2021/12	Wisconsin	55	144	Not Applicable	Not Applicable
+---							
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"							
+Query Parameters:							
+UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide							
+(X60-X64); Drug poisonings (overdose) Homicide (X85); Drug poisonings (overdose) Undetermined (Y10-Y14)							
+Year/Month: 2021							
+Group By: Month; Residence State							
+Show Totals: Disabled							
+Show Zero Values: False							
+Show Suppressed: False							
+"Calculate Rates Per: 100,000"							
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)							
+---							
+Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information.							
+---							
+"Query Date: Apr 21, 2025 4:47:58 PM"							
+---							
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"							
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2023,"							
+"and from provisional data for years 2024 and later, as compiled from data provided by the 57 vital statistics jurisdictions"							
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Apr 21, 2025"							
+4:47:58 PM							
+---							
+Messages:							
+1. Totals are not available for these results due to suppression constraints. More Information:							
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.							
+2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.							
+---							
+Caveats:							
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"							
+"Month are grouped by or limited, due to lack of a valid population. More information:"							
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates.							
+2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:							
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality.							
+3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:							
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable.							
+"4. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"							
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"							
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"							
+counties are not available for 2022 and later years. More information:							
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022.							
+"5. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"							
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"							
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"							
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"							
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"							
+"100,000 population. These deaths will not be updated on the final mortality datasets."							
+"6. Deaths occurring through April 05, 2025 as of April 13, 2025."							

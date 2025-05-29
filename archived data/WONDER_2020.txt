@@ -1,0 +1,632 @@
+Notes	Month	Month Code	Residence State	Residence State Code	Deaths	Population	Crude Rate
+	"Jan., 2020"	2020/01	Alabama	1	57	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Alaska	2	16	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Arizona	4	185	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Arkansas	5	49	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	California	6	589	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Colorado	8	112	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Connecticut	9	116	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Delaware	10	35	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	District of Columbia	11	39	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Florida	12	523	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Georgia	13	123	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Hawaii	15	16	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Idaho	16	19	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Illinois	17	268	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Indiana	18	168	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Iowa	19	23	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Kansas	20	46	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Kentucky	21	121	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Louisiana	22	116	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Maine	23	44	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Maryland	24	192	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Massachusetts	25	157	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Michigan	26	184	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Minnesota	27	70	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Mississippi	28	35	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Missouri	29	140	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Montana	30	14	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Nebraska	31	14	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Nevada	32	50	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	New Hampshire	33	33	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	New Jersey	34	255	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	New Mexico	35	52	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	New York	36	354	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	North Carolina	37	220	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Ohio	39	353	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Oklahoma	40	41	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Oregon	41	57	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Pennsylvania	42	390	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Rhode Island	44	35	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	South Carolina	45	115	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Tennessee	47	198	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Texas	48	300	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Utah	49	48	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Vermont	50	13	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Virginia	51	161	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Washington	53	126	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	West Virginia	54	82	Not Applicable	Not Applicable
+	"Jan., 2020"	2020/01	Wisconsin	55	113	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Alabama	1	71	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Alaska	2	11	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Arizona	4	153	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Arkansas	5	39	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	California	6	589	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Colorado	8	95	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Connecticut	9	93	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Delaware	10	43	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	District of Columbia	11	37	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Florida	12	510	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Georgia	13	140	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Hawaii	15	15	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Idaho	16	25	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Illinois	17	276	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Indiana	18	161	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Iowa	19	41	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Kansas	20	33	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Kentucky	21	147	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Louisiana	22	103	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Maine	23	42	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Maryland	24	207	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Massachusetts	25	190	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Michigan	26	208	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Minnesota	27	64	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Mississippi	28	39	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Missouri	29	150	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Montana	30	11	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Nebraska	31	14	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Nevada	32	52	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	New Hampshire	33	35	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	New Jersey	34	223	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	New Mexico	35	50	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	New York	36	364	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	North Carolina	37	232	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	North Dakota	38	12	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Ohio	39	353	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Oklahoma	40	46	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Oregon	41	48	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Pennsylvania	42	363	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Rhode Island	44	27	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	South Carolina	45	113	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Tennessee	47	174	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Texas	48	273	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Utah	49	44	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Virginia	51	130	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Washington	53	109	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	West Virginia	54	76	Not Applicable	Not Applicable
+	"Feb., 2020"	2020/02	Wisconsin	55	134	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Alabama	1	95	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Arizona	4	199	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Arkansas	5	44	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	California	6	644	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Colorado	8	122	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Connecticut	9	110	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Delaware	10	38	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	District of Columbia	11	23	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Florida	12	605	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Georgia	13	158	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Hawaii	15	27	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Idaho	16	23	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Illinois	17	294	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Indiana	18	170	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Iowa	19	39	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Kansas	20	35	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Kentucky	21	157	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Louisiana	22	136	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Maine	23	45	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Maryland	24	234	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Massachusetts	25	190	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Michigan	26	219	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Minnesota	27	89	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Mississippi	28	47	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Missouri	29	157	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Montana	30	13	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Nebraska	31	24	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Nevada	32	49	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	New Hampshire	33	38	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	New Jersey	34	243	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	New Mexico	35	50	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	New York	36	424	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	North Carolina	37	243	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	North Dakota	38	12	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Ohio	39	379	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Oklahoma	40	70	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Oregon	41	63	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Pennsylvania	42	410	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Rhode Island	44	30	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	South Carolina	45	153	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Tennessee	47	238	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Texas	48	302	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Utah	49	38	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Vermont	50	11	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Virginia	51	151	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Washington	53	144	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	West Virginia	54	78	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Wisconsin	55	109	Not Applicable	Not Applicable
+	"Mar., 2020"	2020/03	Wyoming	56	10	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Alabama	1	99	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Arizona	4	181	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Arkansas	5	49	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	California	6	704	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Colorado	8	137	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Connecticut	9	134	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Delaware	10	41	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	District of Columbia	11	49	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Florida	12	651	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Georgia	13	192	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Hawaii	15	24	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Idaho	16	17	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Illinois	17	339	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Indiana	18	211	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Iowa	19	41	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Kansas	20	31	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Kentucky	21	176	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Louisiana	22	165	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Maine	23	36	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Maryland	24	199	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Massachusetts	25	209	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Michigan	26	233	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Minnesota	27	93	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Mississippi	28	53	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Missouri	29	190	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Montana	30	22	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Nebraska	31	25	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Nevada	32	80	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	New Hampshire	33	36	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	New Jersey	34	230	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	New Mexico	35	54	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	New York	36	405	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	North Carolina	37	285	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	North Dakota	38	10	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Ohio	39	404	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Oklahoma	40	64	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Oregon	41	66	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Pennsylvania	42	479	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Rhode Island	44	32	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	South Carolina	45	145	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	South Dakota	46	12	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Tennessee	47	251	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Texas	48	346	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Utah	49	57	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Vermont	50	20	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Virginia	51	193	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Washington	53	161	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	West Virginia	54	110	Not Applicable	Not Applicable
+	"Apr., 2020"	2020/04	Wisconsin	55	127	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Alabama	1	125	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Alaska	2	22	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Arizona	4	219	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Arkansas	5	51	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	California	6	765	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Colorado	8	146	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Connecticut	9	120	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Delaware	10	50	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	District of Columbia	11	49	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Florida	12	760	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Georgia	13	174	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Hawaii	15	27	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Idaho	16	27	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Illinois	17	405	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Indiana	18	253	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Iowa	19	38	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Kansas	20	46	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Kentucky	21	249	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Louisiana	22	204	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Maine	23	42	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Maryland	24	261	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Massachusetts	25	226	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Michigan	26	326	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Minnesota	27	107	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Mississippi	28	59	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Missouri	29	192	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Montana	30	12	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Nebraska	31	20	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Nevada	32	92	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	New Hampshire	33	43	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	New Jersey	34	285	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	New Mexico	35	71	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	New York	36	508	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	North Carolina	37	369	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Ohio	39	591	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Oklahoma	40	83	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Oregon	41	101	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Pennsylvania	42	487	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Rhode Island	44	39	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	South Carolina	45	171	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Tennessee	47	353	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Texas	48	374	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Utah	49	49	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Vermont	50	20	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Virginia	51	239	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Washington	53	173	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	West Virginia	54	164	Not Applicable	Not Applicable
+	"May, 2020"	2020/05	Wisconsin	55	164	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Alabama	1	100	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Alaska	2	16	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Arizona	4	274	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Arkansas	5	52	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	California	6	760	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Colorado	8	111	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Connecticut	9	117	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Delaware	10	46	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	District of Columbia	11	34	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Florida	12	636	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Georgia	13	177	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Hawaii	15	27	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Idaho	16	24	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Illinois	17	301	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Indiana	18	205	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Iowa	19	42	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Kansas	20	41	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Kentucky	21	161	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Louisiana	22	158	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Maine	23	47	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Maryland	24	229	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Massachusetts	25	202	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Michigan	26	286	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Minnesota	27	83	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Mississippi	28	59	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Missouri	29	154	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Nebraska	31	16	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Nevada	32	64	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	New Hampshire	33	27	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	New Jersey	34	245	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	New Mexico	35	83	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	New York	36	417	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	North Carolina	37	269	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Ohio	39	524	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Oklahoma	40	64	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Oregon	41	57	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Pennsylvania	42	459	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Rhode Island	44	28	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	South Carolina	45	167	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Tennessee	47	307	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Texas	48	368	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Utah	49	51	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Vermont	50	10	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Virginia	51	188	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Washington	53	155	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	West Virginia	54	127	Not Applicable	Not Applicable
+	"Jun., 2020"	2020/06	Wisconsin	55	139	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Alabama	1	82	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Alaska	2	13	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Arizona	4	315	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Arkansas	5	54	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	California	6	874	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Colorado	8	147	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Connecticut	9	138	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Delaware	10	38	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	District of Columbia	11	28	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Florida	12	655	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Georgia	13	192	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Hawaii	15	24	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Idaho	16	29	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Illinois	17	296	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Indiana	18	220	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Iowa	19	33	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Kansas	20	58	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Kentucky	21	190	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Louisiana	22	177	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Maine	23	41	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Maryland	24	230	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Massachusetts	25	213	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Michigan	26	241	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Minnesota	27	81	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Mississippi	28	49	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Missouri	29	158	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Montana	30	13	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Nebraska	31	11	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Nevada	32	81	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	New Hampshire	33	39	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	New Jersey	34	223	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	New Mexico	35	68	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	New York	36	451	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	North Carolina	37	290	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Ohio	39	484	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Oklahoma	40	73	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Oregon	41	69	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Pennsylvania	42	481	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Rhode Island	44	41	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	South Carolina	45	155	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Tennessee	47	278	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Texas	48	415	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Utah	49	78	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Vermont	50	17	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Virginia	51	209	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Washington	53	151	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	West Virginia	54	115	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Wisconsin	55	133	Not Applicable	Not Applicable
+	"Jul., 2020"	2020/07	Wyoming	56	10	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Alabama	1	87	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Alaska	2	12	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Arizona	4	281	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Arkansas	5	42	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	California	6	976	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Colorado	8	155	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Connecticut	9	92	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Delaware	10	42	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	District of Columbia	11	45	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Florida	12	631	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Georgia	13	164	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Hawaii	15	20	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Idaho	16	21	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Illinois	17	295	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Indiana	18	179	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Iowa	19	28	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Kansas	20	42	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Kentucky	21	176	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Louisiana	22	173	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Maine	23	40	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Maryland	24	246	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Massachusetts	25	173	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Michigan	26	214	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Minnesota	27	109	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Mississippi	28	65	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Missouri	29	151	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Montana	30	13	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Nebraska	31	22	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Nevada	32	91	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	New Hampshire	33	22	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	New Jersey	34	242	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	New Mexico	35	84	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	New York	36	429	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	North Carolina	37	283	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Ohio	39	394	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Oklahoma	40	67	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Oregon	41	77	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Pennsylvania	42	441	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Rhode Island	44	39	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	South Carolina	45	165	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Tennessee	47	258	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Texas	48	437	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Utah	49	62	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Vermont	50	22	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Virginia	51	205	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Washington	53	146	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	West Virginia	54	108	Not Applicable	Not Applicable
+	"Aug., 2020"	2020/08	Wisconsin	55	130	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Alabama	1	76	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Alaska	2	13	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Arizona	4	192	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Arkansas	5	41	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	California	6	754	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Colorado	8	120	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Connecticut	9	123	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Delaware	10	34	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	District of Columbia	11	31	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Florida	12	629	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Georgia	13	140	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Hawaii	15	29	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Idaho	16	26	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Illinois	17	284	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Indiana	18	181	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Iowa	19	46	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Kansas	20	36	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Kentucky	21	173	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Louisiana	22	158	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Maine	23	36	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Maryland	24	249	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Massachusetts	25	172	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Michigan	26	203	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Minnesota	27	82	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Mississippi	28	43	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Missouri	29	139	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Montana	30	15	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Nebraska	31	24	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Nevada	32	52	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	New Hampshire	33	31	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	New Jersey	34	224	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	New Mexico	35	65	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	New York	36	387	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	North Carolina	37	232	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	North Dakota	38	12	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Ohio	39	435	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Oklahoma	40	55	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Oregon	41	65	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Pennsylvania	42	443	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Rhode Island	44	37	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	South Carolina	45	148	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Tennessee	47	235	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Texas	48	345	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Utah	49	41	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Vermont	50	13	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Virginia	51	195	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Washington	53	126	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	West Virginia	54	126	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Wisconsin	55	128	Not Applicable	Not Applicable
+	"Sep., 2020"	2020/09	Wyoming	56	10	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Alabama	1	64	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Alaska	2	13	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Arizona	4	192	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Arkansas	5	41	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	California	6	750	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Colorado	8	108	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Connecticut	9	94	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Delaware	10	28	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	District of Columbia	11	32	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Florida	12	551	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Georgia	13	152	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Hawaii	15	24	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Idaho	16	26	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Illinois	17	243	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Indiana	18	195	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Iowa	19	39	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Kansas	20	36	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Kentucky	21	169	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Louisiana	22	151	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Maine	23	36	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Maryland	24	278	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Massachusetts	25	199	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Michigan	26	226	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Minnesota	27	90	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Mississippi	28	43	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Missouri	29	161	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Montana	30	13	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Nebraska	31	15	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Nevada	32	76	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	New Hampshire	33	27	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	New Jersey	34	210	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	New Mexico	35	68	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	New York	36	416	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	North Carolina	37	235	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Ohio	39	432	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Oklahoma	40	73	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Oregon	41	58	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Pennsylvania	42	394	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Rhode Island	44	31	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	South Carolina	45	119	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Tennessee	47	268	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Texas	48	313	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Utah	49	57	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Vermont	50	19	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Virginia	51	194	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Washington	53	142	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	West Virginia	54	102	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Wisconsin	55	112	Not Applicable	Not Applicable
+	"Oct., 2020"	2020/10	Wyoming	56	10	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Alabama	1	77	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Alaska	2	14	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Arizona	4	193	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Arkansas	5	43	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	California	6	725	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Colorado	8	118	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Connecticut	9	103	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Delaware	10	22	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	District of Columbia	11	27	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Florida	12	567	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Georgia	13	142	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Hawaii	15	20	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Idaho	16	24	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Illinois	17	288	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Indiana	18	171	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Iowa	19	35	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Kansas	20	30	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Kentucky	21	170	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Louisiana	22	158	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Maine	23	42	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Maryland	24	230	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Massachusetts	25	182	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Michigan	26	197	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Minnesota	27	86	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Mississippi	28	45	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Missouri	29	144	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Montana	30	15	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Nebraska	31	10	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Nevada	32	65	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	New Hampshire	33	28	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	New Jersey	34	245	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	New Mexico	35	73	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	New York	36	404	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	North Carolina	37	251	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Ohio	39	403	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Oklahoma	40	60	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Oregon	41	74	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Pennsylvania	42	410	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Rhode Island	44	27	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	South Carolina	45	142	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Tennessee	47	230	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Texas	48	328	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Utah	49	48	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Vermont	50	16	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Virginia	51	185	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Washington	53	143	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	West Virginia	54	123	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Wisconsin	55	117	Not Applicable	Not Applicable
+	"Nov., 2020"	2020/11	Wyoming	56	13	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Alabama	1	96	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Alaska	2	14	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Arizona	4	166	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Arkansas	5	41	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	California	6	778	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Colorado	8	121	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Connecticut	9	131	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Delaware	10	27	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	District of Columbia	11	30	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Florida	12	513	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Georgia	13	162	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Hawaii	15	21	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Idaho	16	26	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Illinois	17	260	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Indiana	18	207	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Iowa	19	27	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Kansas	20	56	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Kentucky	21	194	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Louisiana	22	197	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Maine	23	45	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Maryland	24	216	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Massachusetts	25	189	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Michigan	26	222	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Minnesota	27	96	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Mississippi	28	49	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Missouri	29	139	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Montana	30	13	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Nebraska	31	19	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Nevada	32	80	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	New Hampshire	33	34	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	New Jersey	34	215	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	New Mexico	35	66	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	New York	36	406	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	North Carolina	37	237	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	North Dakota	38	15	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Ohio	39	452	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Oklahoma	40	66	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Oregon	41	68	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Pennsylvania	42	411	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Rhode Island	44	31	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	South Carolina	45	146	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Tennessee	47	244	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Texas	48	371	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Utah	49	49	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Vermont	50	20	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Virginia	51	190	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Washington	53	157	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	West Virginia	54	119	Not Applicable	Not Applicable
+	"Dec., 2020"	2020/12	Wisconsin	55	125	Not Applicable	Not Applicable
+---							
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"							
+Query Parameters:							
+UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide							
+(X60-X64); Drug poisonings (overdose) Homicide (X85); Drug poisonings (overdose) Undetermined (Y10-Y14)							
+Year/Month: 2020							
+Group By: Month; Residence State							
+Show Totals: Disabled							
+Show Zero Values: False							
+Show Suppressed: False							
+"Calculate Rates Per: 100,000"							
+Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)							
+---							
+Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information.							
+---							
+"Query Date: Apr 21, 2025 4:48:31 PM"							
+---							
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"							
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2023,"							
+"and from provisional data for years 2024 and later, as compiled from data provided by the 57 vital statistics jurisdictions"							
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Apr 21, 2025"							
+4:48:31 PM							
+---							
+Messages:							
+1. Totals are not available for these results due to suppression constraints. More Information:							
+http://wonder.cdc.gov/wonder/help/faq.html#Privacy.							
+2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows.							
+---							
+Caveats:							
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"							
+"Month are grouped by or limited, due to lack of a valid population. More information:"							
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates.							
+2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:							
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality.							
+3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:							
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable.							
+"4. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"							
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"							
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"							
+counties are not available for 2022 and later years. More information:							
+http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022.							
+"5. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"							
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"							
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"							
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"							
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"							
+"100,000 population. These deaths will not be updated on the final mortality datasets."							
+"6. Deaths occurring through April 05, 2025 as of April 13, 2025."							

@@ -1,0 +1,644 @@
+"Notes"	"Month"	"Month Code"	"Residence State"	"Residence State Code"	Deaths	Population	Crude Rate
+	"Jan., 2023"	"2023/01"	"Alabama"	"01"	136	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Alaska"	"02"	33	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Arizona"	"04"	212	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Arkansas"	"05"	37	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"California"	"06"	1032	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Colorado"	"08"	145	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Connecticut"	"09"	111	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Delaware"	"10"	56	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"District of Columbia"	"11"	36	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Florida"	"12"	615	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Georgia"	"13"	224	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Hawaii"	"15"	15	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Idaho"	"16"	29	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Illinois"	"17"	298	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Indiana"	"18"	212	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Iowa"	"19"	34	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Kansas"	"20"	65	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Kentucky"	"21"	178	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Louisiana"	"22"	188	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Maine"	"23"	54	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Maryland"	"24"	209	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Massachusetts"	"25"	228	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Michigan"	"26"	286	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Minnesota"	"27"	119	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Mississippi"	"28"	62	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Missouri"	"29"	177	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Nebraska"	"31"	14	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Nevada"	"32"	80	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"New Hampshire"	"33"	40	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"New Jersey"	"34"	219	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"New Mexico"	"35"	82	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"New York"	"36"	574	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"North Carolina"	"37"	373	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"North Dakota"	"38"	15	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Ohio"	"39"	428	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Oklahoma"	"40"	110	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Oregon"	"41"	136	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Pennsylvania"	"42"	449	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Rhode Island"	"44"	45	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"South Carolina"	"45"	186	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"South Dakota"	"46"	13	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Tennessee"	"47"	301	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Texas"	"48"	467	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Utah"	"49"	71	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Vermont"	"50"	21	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Virginia"	"51"	233	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Washington"	"53"	305	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"West Virginia"	"54"	110	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Wisconsin"	"55"	164	Not Applicable	Not Applicable
+	"Jan., 2023"	"2023/01"	"Wyoming"	"56"	13	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Alabama"	"01"	129	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Alaska"	"02"	26	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Arizona"	"04"	187	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Arkansas"	"05"	47	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"California"	"06"	886	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Colorado"	"08"	143	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Connecticut"	"09"	126	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Delaware"	"10"	44	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"District of Columbia"	"11"	34	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Florida"	"12"	579	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Georgia"	"13"	200	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Idaho"	"16"	40	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Illinois"	"17"	290	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Indiana"	"18"	185	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Iowa"	"19"	35	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Kansas"	"20"	50	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Kentucky"	"21"	189	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Louisiana"	"22"	177	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Maine"	"23"	47	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Maryland"	"24"	196	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Massachusetts"	"25"	186	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Michigan"	"26"	241	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Minnesota"	"27"	97	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Mississippi"	"28"	53	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Missouri"	"29"	171	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Montana"	"30"	15	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Nebraska"	"31"	14	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Nevada"	"32"	83	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"New Hampshire"	"33"	43	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"New Jersey"	"34"	219	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"New Mexico"	"35"	60	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"New York"	"36"	483	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"North Carolina"	"37"	340	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Ohio"	"39"	413	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Oklahoma"	"40"	120	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Oregon"	"41"	119	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Pennsylvania"	"42"	407	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Rhode Island"	"44"	33	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"South Carolina"	"45"	184	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Tennessee"	"47"	298	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Texas"	"48"	457	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Utah"	"49"	56	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Vermont"	"50"	24	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Virginia"	"51"	206	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Washington"	"53"	233	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"West Virginia"	"54"	98	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Wisconsin"	"55"	119	Not Applicable	Not Applicable
+	"Feb., 2023"	"2023/02"	"Wyoming"	"56"	10	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Alabama"	"01"	147	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Alaska"	"02"	16	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Arizona"	"04"	221	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Arkansas"	"05"	45	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"California"	"06"	1036	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Colorado"	"08"	136	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Connecticut"	"09"	104	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Delaware"	"10"	48	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"District of Columbia"	"11"	41	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Florida"	"12"	598	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Georgia"	"13"	268	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Hawaii"	"15"	24	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Idaho"	"16"	36	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Illinois"	"17"	338	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Indiana"	"18"	199	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Iowa"	"19"	40	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Kansas"	"20"	61	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Kentucky"	"21"	191	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Louisiana"	"22"	195	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Maine"	"23"	40	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Maryland"	"24"	204	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Massachusetts"	"25"	212	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Michigan"	"26"	284	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Minnesota"	"27"	119	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Mississippi"	"28"	58	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Missouri"	"29"	213	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Montana"	"30"	15	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Nebraska"	"31"	13	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Nevada"	"32"	134	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"New Hampshire"	"33"	48	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"New Jersey"	"34"	235	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"New Mexico"	"35"	83	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"New York"	"36"	531	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"North Carolina"	"37"	384	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Ohio"	"39"	419	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Oklahoma"	"40"	123	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Oregon"	"41"	147	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Pennsylvania"	"42"	440	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Rhode Island"	"44"	35	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"South Carolina"	"45"	221	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"South Dakota"	"46"	11	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Tennessee"	"47"	354	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Texas"	"48"	505	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Utah"	"49"	47	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Vermont"	"50"	18	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Virginia"	"51"	241	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Washington"	"53"	305	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"West Virginia"	"54"	136	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Wisconsin"	"55"	168	Not Applicable	Not Applicable
+	"Mar., 2023"	"2023/03"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Alabama"	"01"	118	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Alaska"	"02"	30	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Arizona"	"04"	211	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Arkansas"	"05"	51	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"California"	"06"	971	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Colorado"	"08"	159	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Connecticut"	"09"	106	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Delaware"	"10"	47	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"District of Columbia"	"11"	31	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Florida"	"12"	618	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Georgia"	"13"	232	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Hawaii"	"15"	30	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Idaho"	"16"	34	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Illinois"	"17"	312	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Indiana"	"18"	192	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Iowa"	"19"	40	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Kansas"	"20"	47	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Kentucky"	"21"	194	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Louisiana"	"22"	188	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Maine"	"23"	65	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Maryland"	"24"	222	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Massachusetts"	"25"	183	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Michigan"	"26"	267	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Minnesota"	"27"	120	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Mississippi"	"28"	58	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Missouri"	"29"	173	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Montana"	"30"	10	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Nebraska"	"31"	13	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Nevada"	"32"	116	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"New Hampshire"	"33"	34	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"New Jersey"	"34"	250	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"New Mexico"	"35"	89	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"New York"	"36"	605	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"North Carolina"	"37"	368	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Ohio"	"39"	452	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Oklahoma"	"40"	105	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Oregon"	"41"	139	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Pennsylvania"	"42"	415	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Rhode Island"	"44"	38	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"South Carolina"	"45"	175	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Tennessee"	"47"	317	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Texas"	"48"	468	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Utah"	"49"	62	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Vermont"	"50"	32	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Virginia"	"51"	206	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Washington"	"53"	315	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"West Virginia"	"54"	123	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Wisconsin"	"55"	162	Not Applicable	Not Applicable
+	"Apr., 2023"	"2023/04"	"Wyoming"	"56"	13	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Alabama"	"01"	159	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Alaska"	"02"	32	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Arizona"	"04"	217	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Arkansas"	"05"	49	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"California"	"06"	1063	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Colorado"	"08"	174	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Connecticut"	"09"	127	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Delaware"	"10"	42	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"District of Columbia"	"11"	36	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Florida"	"12"	600	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Georgia"	"13"	243	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Hawaii"	"15"	32	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Idaho"	"16"	30	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Illinois"	"17"	329	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Indiana"	"18"	188	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Iowa"	"19"	50	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Kansas"	"20"	56	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Kentucky"	"21"	199	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Louisiana"	"22"	191	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Maine"	"23"	48	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Maryland"	"24"	215	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Massachusetts"	"25"	238	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Michigan"	"26"	238	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Minnesota"	"27"	111	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Mississippi"	"28"	56	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Missouri"	"29"	177	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Montana"	"30"	18	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Nebraska"	"31"	15	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Nevada"	"32"	87	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"New Hampshire"	"33"	38	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"New Jersey"	"34"	261	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"New Mexico"	"35"	84	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"New York"	"36"	547	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"North Carolina"	"37"	415	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"North Dakota"	"38"	12	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Ohio"	"39"	419	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Oklahoma"	"40"	132	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Oregon"	"41"	135	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Pennsylvania"	"42"	474	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Rhode Island"	"44"	36	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"South Carolina"	"45"	206	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"South Dakota"	"46"	12	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Tennessee"	"47"	320	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Texas"	"48"	487	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Utah"	"49"	51	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Vermont"	"50"	14	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Virginia"	"51"	230	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Washington"	"53"	298	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"West Virginia"	"54"	121	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Wisconsin"	"55"	170	Not Applicable	Not Applicable
+	"May, 2023"	"2023/05"	"Wyoming"	"56"	11	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Alabama"	"01"	140	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Alaska"	"02"	30	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Arizona"	"04"	188	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Arkansas"	"05"	40	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"California"	"06"	925	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Colorado"	"08"	158	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Connecticut"	"09"	107	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Delaware"	"10"	46	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"District of Columbia"	"11"	36	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Florida"	"12"	595	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Georgia"	"13"	214	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Hawaii"	"15"	39	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Idaho"	"16"	35	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Illinois"	"17"	292	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Indiana"	"18"	173	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Iowa"	"19"	43	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Kansas"	"20"	68	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Kentucky"	"21"	165	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Louisiana"	"22"	208	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Maine"	"23"	58	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Maryland"	"24"	224	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Massachusetts"	"25"	206	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Michigan"	"26"	222	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Minnesota"	"27"	128	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Mississippi"	"28"	57	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Missouri"	"29"	154	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Montana"	"30"	21	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Nebraska"	"31"	14	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Nevada"	"32"	91	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"New Hampshire"	"33"	37	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"New Jersey"	"34"	235	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"New Mexico"	"35"	104	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"New York"	"36"	551	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"North Carolina"	"37"	329	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"North Dakota"	"38"	15	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Ohio"	"39"	404	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Oklahoma"	"40"	88	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Oregon"	"41"	158	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Pennsylvania"	"42"	393	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Rhode Island"	"44"	32	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"South Carolina"	"45"	209	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Tennessee"	"47"	299	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Texas"	"48"	489	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Utah"	"49"	70	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Vermont"	"50"	17	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Virginia"	"51"	235	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Washington"	"53"	285	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"West Virginia"	"54"	109	Not Applicable	Not Applicable
+	"Jun., 2023"	"2023/06"	"Wisconsin"	"55"	159	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Alabama"	"01"	157	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Alaska"	"02"	20	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Arizona"	"04"	372	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Arkansas"	"05"	45	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"California"	"06"	1103	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Colorado"	"08"	162	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Connecticut"	"09"	120	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Delaware"	"10"	55	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"District of Columbia"	"11"	32	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Florida"	"12"	662	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Georgia"	"13"	206	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Hawaii"	"15"	33	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Idaho"	"16"	29	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Illinois"	"17"	257	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Indiana"	"18"	212	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Iowa"	"19"	46	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Kansas"	"20"	55	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Kentucky"	"21"	164	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Louisiana"	"22"	194	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Maine"	"23"	49	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Maryland"	"24"	220	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Massachusetts"	"25"	199	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Michigan"	"26"	246	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Minnesota"	"27"	104	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Mississippi"	"28"	57	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Missouri"	"29"	148	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Montana"	"30"	14	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Nebraska"	"31"	23	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Nevada"	"32"	153	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"New Hampshire"	"33"	40	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"New Jersey"	"34"	239	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"New Mexico"	"35"	100	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"New York"	"36"	517	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"North Carolina"	"37"	269	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Ohio"	"39"	436	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Oklahoma"	"40"	104	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Oregon"	"41"	187	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Pennsylvania"	"42"	421	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Rhode Island"	"44"	35	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"South Carolina"	"45"	178	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Tennessee"	"47"	269	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Texas"	"48"	534	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Utah"	"49"	42	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Vermont"	"50"	30	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Virginia"	"51"	217	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Washington"	"53"	325	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"West Virginia"	"54"	121	Not Applicable	Not Applicable
+	"Jul., 2023"	"2023/07"	"Wisconsin"	"55"	164	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Alabama"	"01"	126	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Alaska"	"02"	29	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Arizona"	"04"	266	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Arkansas"	"05"	54	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"California"	"06"	990	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Colorado"	"08"	165	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Connecticut"	"09"	116	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Delaware"	"10"	44	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"District of Columbia"	"11"	46	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Florida"	"12"	617	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Georgia"	"13"	213	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Hawaii"	"15"	42	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Idaho"	"16"	26	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Illinois"	"17"	309	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Indiana"	"18"	206	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Iowa"	"19"	38	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Kansas"	"20"	54	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Kentucky"	"21"	178	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Louisiana"	"22"	213	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Maine"	"23"	38	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Maryland"	"24"	202	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Massachusetts"	"25"	210	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Michigan"	"26"	245	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Minnesota"	"27"	112	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Mississippi"	"28"	68	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Missouri"	"29"	178	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Montana"	"30"	13	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Nebraska"	"31"	17	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Nevada"	"32"	128	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"New Hampshire"	"33"	35	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"New Jersey"	"34"	243	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"New Mexico"	"35"	89	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"New York"	"36"	571	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"North Carolina"	"37"	277	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"North Dakota"	"38"	13	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Ohio"	"39"	425	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Oklahoma"	"40"	100	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Oregon"	"41"	167	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Pennsylvania"	"42"	367	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Rhode Island"	"44"	26	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"South Carolina"	"45"	177	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Tennessee"	"47"	327	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Texas"	"48"	589	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Utah"	"49"	55	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Vermont"	"50"	26	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Virginia"	"51"	209	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Washington"	"53"	279	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"West Virginia"	"54"	119	Not Applicable	Not Applicable
+	"Aug., 2023"	"2023/08"	"Wisconsin"	"55"	141	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Alabama"	"01"	121	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Alaska"	"02"	33	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Arizona"	"04"	191	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Arkansas"	"05"	38	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"California"	"06"	882	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Colorado"	"08"	149	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Connecticut"	"09"	110	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Delaware"	"10"	37	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"District of Columbia"	"11"	34	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Florida"	"12"	554	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Georgia"	"13"	199	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Hawaii"	"15"	25	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Idaho"	"16"	31	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Illinois"	"17"	270	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Indiana"	"18"	172	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Iowa"	"19"	40	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Kansas"	"20"	53	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Kentucky"	"21"	160	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Louisiana"	"22"	181	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Maine"	"23"	55	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Maryland"	"24"	192	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Massachusetts"	"25"	193	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Michigan"	"26"	226	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Minnesota"	"27"	112	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Mississippi"	"28"	53	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Missouri"	"29"	149	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Montana"	"30"	11	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Nebraska"	"31"	12	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Nevada"	"32"	108	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"New Hampshire"	"33"	44	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"New Jersey"	"34"	192	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"New Mexico"	"35"	68	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"New York"	"36"	457	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"North Carolina"	"37"	233	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Ohio"	"39"	347	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Oklahoma"	"40"	101	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Oregon"	"41"	151	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Pennsylvania"	"42"	341	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Rhode Island"	"44"	34	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"South Carolina"	"45"	158	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"South Dakota"	"46"	10	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Tennessee"	"47"	309	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Texas"	"48"	450	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Utah"	"49"	60	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Vermont"	"50"	18	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Virginia"	"51"	176	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Washington"	"53"	291	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"West Virginia"	"54"	107	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Wisconsin"	"55"	132	Not Applicable	Not Applicable
+	"Sep., 2023"	"2023/09"	"Wyoming"	"56"	13	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Alabama"	"01"	126	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Alaska"	"02"	26	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Arizona"	"04"	196	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Arkansas"	"05"	38	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"California"	"06"	865	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Colorado"	"08"	154	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Connecticut"	"09"	89	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Delaware"	"10"	33	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"District of Columbia"	"11"	32	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Florida"	"12"	553	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Georgia"	"13"	181	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Hawaii"	"15"	15	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Idaho"	"16"	37	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Illinois"	"17"	287	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Indiana"	"18"	176	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Iowa"	"19"	21	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Kansas"	"20"	51	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Kentucky"	"21"	147	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Louisiana"	"22"	156	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Maine"	"23"	51	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Maryland"	"24"	235	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Massachusetts"	"25"	171	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Michigan"	"26"	227	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Minnesota"	"27"	103	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Mississippi"	"28"	51	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Missouri"	"29"	174	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Montana"	"30"	22	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Nebraska"	"31"	12	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Nevada"	"32"	99	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"New Hampshire"	"33"	26	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"New Jersey"	"34"	217	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"New Mexico"	"35"	78	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"New York"	"36"	516	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"North Carolina"	"37"	180	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"North Dakota"	"38"	10	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Ohio"	"39"	356	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Oklahoma"	"40"	100	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Oregon"	"41"	171	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Pennsylvania"	"42"	393	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Rhode Island"	"44"	28	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"South Carolina"	"45"	181	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Tennessee"	"47"	278	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Texas"	"48"	412	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Utah"	"49"	47	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Vermont"	"50"	24	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Virginia"	"51"	179	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Washington"	"53"	270	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"West Virginia"	"54"	104	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Wisconsin"	"55"	132	Not Applicable	Not Applicable
+	"Oct., 2023"	"2023/10"	"Wyoming"	"56"	11	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Alabama"	"01"	119	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Alaska"	"02"	33	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Arizona"	"04"	195	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Arkansas"	"05"	38	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"California"	"06"	786	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Colorado"	"08"	179	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Connecticut"	"09"	105	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Delaware"	"10"	40	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"District of Columbia"	"11"	32	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Florida"	"12"	488	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Georgia"	"13"	212	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Hawaii"	"15"	22	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Idaho"	"16"	37	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Illinois"	"17"	275	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Indiana"	"18"	172	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Iowa"	"19"	38	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Kansas"	"20"	45	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Kentucky"	"21"	141	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Louisiana"	"22"	152	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Maine"	"23"	48	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Maryland"	"24"	206	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Massachusetts"	"25"	175	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Michigan"	"26"	190	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Minnesota"	"27"	102	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Mississippi"	"28"	72	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Missouri"	"29"	139	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Montana"	"30"	15	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Nevada"	"32"	98	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"New Hampshire"	"33"	27	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"New Jersey"	"34"	191	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"New Mexico"	"35"	74	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"New York"	"36"	461	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"North Carolina"	"37"	180	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Ohio"	"39"	323	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Oklahoma"	"40"	107	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Oregon"	"41"	128	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Pennsylvania"	"42"	331	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Rhode Island"	"44"	37	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"South Carolina"	"45"	134	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Tennessee"	"47"	268	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Texas"	"48"	418	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Utah"	"49"	64	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Vermont"	"50"	12	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Virginia"	"51"	175	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Washington"	"53"	277	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"West Virginia"	"54"	105	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Wisconsin"	"55"	136	Not Applicable	Not Applicable
+	"Nov., 2023"	"2023/11"	"Wyoming"	"56"	14	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Alabama"	"01"	130	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Alaska"	"02"	51	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Arizona"	"04"	168	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Arkansas"	"05"	34	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"California"	"06"	839	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Colorado"	"08"	148	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Connecticut"	"09"	97	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Delaware"	"10"	33	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"District of Columbia"	"11"	37	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Florida"	"12"	531	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Georgia"	"13"	178	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Hawaii"	"15"	19	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Idaho"	"16"	22	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Illinois"	"17"	268	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Indiana"	"18"	157	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Iowa"	"19"	37	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Kansas"	"20"	48	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Kentucky"	"21"	171	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Louisiana"	"22"	181	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Maine"	"23"	45	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Maryland"	"24"	225	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Massachusetts"	"25"	186	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Michigan"	"26"	210	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Minnesota"	"27"	104	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Mississippi"	"28"	57	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Missouri"	"29"	133	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Montana"	"30"	17	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Nebraska"	"31"	18	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Nevada"	"32"	105	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"New Hampshire"	"33"	28	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"New Jersey"	"34"	187	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"New Mexico"	"35"	82	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"New York"	"36"	517	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"North Carolina"	"37"	172	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Ohio"	"39"	323	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Oklahoma"	"40"	88	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Oregon"	"41"	144	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Pennsylvania"	"42"	326	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Rhode Island"	"44"	34	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"South Carolina"	"45"	168	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Tennessee"	"47"	276	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Texas"	"48"	411	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Utah"	"49"	68	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Vermont"	"50"	23	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Virginia"	"51"	173	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Washington"	"53"	294	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"West Virginia"	"54"	124	Not Applicable	Not Applicable
+	"Dec., 2023"	"2023/12"	"Wisconsin"	"55"	120	Not Applicable	Not Applicable
+"---"
+"Dataset: Provisional Mortality Statistics, 2018 through Last Week"
+"Query Parameters:"
+"UCD - Drug/Alcohol Induced Causes: Drug poisonings (overdose) Unintentional (X40-X44); Drug poisonings (overdose) Suicide"
+"(X60-X64); Drug poisonings (overdose) Homicide (X85); Drug poisonings (overdose) Undetermined (Y10-Y14)"
+"Year/Month: 2023"
+"Group By: Month; Residence State"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd-provisional.html for more information."
+"---"
+"Query Date: Apr 21, 2025 4:46:50 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Mortality on CDC WONDER Online Database. Data are from the final Multiple Cause of Death Files, 2018-2023,"
+"and from provisional data for years 2024 and later, as compiled from data provided by the 57 vital statistics jurisdictions"
+"through the Vital Statistics Cooperative Program. Accessed at http://wonder.cdc.gov/mcd-icd10-provisional.html on Apr 21, 2025"
+"4:46:50 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when location of Death's Occurrence, Autopsy, Place of Death, Weekday or"
+"Month are grouped by or limited, due to lack of a valid population. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#NotApplicableRates."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Assurance of Confidentiality."
+"3. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Unreliable."
+"4. Connecticut population estimates for 2022 and later years are reported for 9 planning regions as county equivalent areas,"
+"instead of the former 8 legacy counties in the Vintage 2022 postcensal series released by the Census Bureau on June 22, 2023,"
+"and in the Vintage 2023 postcensal series released by the Census Bureau on June 27, 2024. Populations estimates for the former"
+"counties are not available for 2022 and later years. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd-provisional.html#Connecticut-2022."
+"5. After the creation of the final 2023 dataset, North Carolina updated the cause of death information for over 900 death"
+"certificates to include a cause of death code indicating drug overdose (ICD-10 underlying cause-of-death codes: X40-X44,"
+"X60-X64, X85, and Y10-Y14). Jurisdictions can continue to update death certificates after the closing of the mortality file. As"
+"a result, users should consider that the actual death count for drug overdose deaths for North Carolina in 2023 is over 4,400"
+"deaths, with a crude rate of approximately 41.0 per 100,000 population, and an age-adjusted rate of approximately 42.1 per"
+"100,000 population. These deaths will not be updated on the final mortality datasets."
+"6. Deaths occurring through April 05, 2025 as of April 13, 2025."
